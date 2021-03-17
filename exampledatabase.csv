@@ -1,0 +1,20 @@
+﻿id,localizationId,displayName,description,author,categoryPath,iconAddress,prefabAddress,slot,mass,,,ignoreme
+boltaxe,boltaxe,Bolt Axe,"Coursing with electrical energy, this magical axe has been struck by lightning.",Greenf1re,Axes,fireemblemaxe.boltaxe.Icon,fireemblemaxe.boltaxe,Large,4,,,fireemblemaxe.
+braveaxe,braveaxe,Brave Axe,The wielder of this axe is emboldened and will attack twice when initiating combat.,Greenf1re,Axes,fireemblemaxe.braveaxze.Icon,fireemblemaxe.braveaxze,Large,4,,,.Icon
+brokenaxe,brokenaxe,Broken Axe,"After being completely consumed, any axe becomes this. They are still usable, but their low accuracy and might, coupled with a considerable increase of weight, render them useless.",Greenf1re,Axes,fireemblemaxe.brokenaxe.Icon,fireemblemaxe.brokenaxe,Large,4,,,
+devilaxe,devilaxe,Devil Axe,A diabolical axe that inflicts damage after combat.,Greenf1re,Axes,fireemblemaxe.devilaxe.Icon,fireemblemaxe.devilaxe,Large,4,,,
+hammer,hammer,Hammer,"This hammer can pummel metal with astonishing force, making it effective against armored units.",Greenf1re,Axes,fireemblemaxe.hammer.Icon,fireemblemaxe.hammer,Large,4,,,
+handaxe,handaxe,Handaxe,A compact ranged axe that can be thrown at distant enemies.,Greenf1re,Axes,fireemblemaxe.handaxe.Icon,fireemblemaxe.handaxe,Medium,1.5,,,
+hauteclere,hauteclere,Hauteclere,"An Empire Wyvern Corps axe, wielded in the War Of Heroes.",Greenf1re,Axes,fireemblemaxe.hauteclere.Icon,fireemblemaxe.hauteclere,Large,4,,,
+ironaxe,ironaxe,Iron axe,A standard axe made of iron--simple but effective.,Greenf1re,Axes,fireemblemaxe.ironaxe.Icon,fireemblemaxe.ironaxe,Large,4,,,
+killeraxe,killeraxe,Killer axe,"Deadly sharp, this axe boasts a high critical-hit rate.",Greenf1re,Axes,fireemblemaxe.killeraxe.Icon,fireemblemaxe.killeraxe,Large,4,,,
+mace,mace,Mace,"A bludgeoning weapon that can ravage armor, this mace is effective against armored units.",Greenf1re,Axes,fireemblemaxe.mace.Icon,fireemblemaxe.mace,Large,4,,,
+rustedaxe,rustedaxe,Rusted axe,"Can be forged into an Iron, Steel, Silver or Brave Axe or Hauteclere.",Greenf1re,Axes,fireemblemaxe.rustedaxe.Icon,fireemblemaxe.rustedaxe,Large,4,,,
+shortaxe,shortaxe,Short axe,The light construction of this ranged axe makes it easy to throw at foes from afar.,Greenf1re,Axes,fireemblemaxe.shortaxe.Icon,fireemblemaxe.shortaxe,Medium,1.5,,,
+silveraxe,silveraxe,Silver axe,An axe crafted from shining silver.,Greenf1re,Axes,fireemblemaxe.silveraxe.Icon,fireemblemaxe.silveraxe,Large,4,,,
+steelaxe,steelaxe,Steel axe,A weighty steel axe that deals significant blows.,Greenf1re,Axes,fireemblemaxe.steelaxe.Icon,fireemblemaxe.steelaxe,Large,4,,,
+tomahawk,tomahawk,Tomahawk,The wielder of this brutal ranged axe can hurl it at enemies for deep impact.,Greenf1re,Axes,fireemblemaxe.tomahawk.Icon,fireemblemaxe.tomahawk,Medium,1.5,,,
+trainingaxe,trainingaxe,Training axe,This simple axe is perfect for training purposes.,Greenf1re,Axes,fireemblemaxe.trainingaxe.Icon,fireemblemaxe.trainingaxe,Large,4,,,
+ukonvasara,ukonvasara,Ukonvasara,Sacred Weapon (Crest of Gloucester) that restores HP every turn.,Greenf1re,Axes,fireemblemaxe.ukonvasara.Icon,fireemblemaxe.ukonvasara,Large,4,,,
+veninaxe,veninaxe,Venin axe,An axe that poisons foes.,Greenf1re,Axes,fireemblemaxe.veninaxe.Icon,fireemblemaxe.veninaxe,Large,4,,,
+zoltanaxe,zoltanaxe,Zoltan axe,An impressive axe forged by the legendary artisan Zoltan.,Greenf1re,Axes,fireemblemaxe.zoltanaxe.Icon,fireemblemaxe.zoltanaxe,Large,4,,,
