@@ -1,4 +1,4 @@
-import json, csv, sys, bz2
+import json, csv, sys
 
 print("loading files...")
 with open(sys.argv[1]) as file:
