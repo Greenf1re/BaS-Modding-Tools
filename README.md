@@ -16,3 +16,6 @@ The template json may be anything from the default game or from mods. For my exa
 1. On windows, open powershell/cmd in the install directory
 2. Type `py -3 .\main.py "template.json" "database.csv" "output directory (optional)"`
 3. If the output directory is blank, the weapon jsons will be generated in the current directory.
+
+## Credits
+Written by [Crimson1ce](https://github.com/Crimson1ce)
